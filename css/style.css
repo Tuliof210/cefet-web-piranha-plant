@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background-image: url("../imagens/fundo.png");
+    max-width: 720px;
+    margin: auto;
+    /*centralizar conteudo*/
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: limegreen;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: limegreen;
+}
+
+img {
+    border: 4px solid limegreen;
+}
+
+table {
+    width: 600px;
+    margin: auto;
+}
+
+table,
+th,
+td {
+    border: 2px solid silver;
+    border-collapse: collapse;
+    text-align: center;
+}
